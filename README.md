@@ -62,6 +62,6 @@ My interests include medical imaging, image processing, visualisation/rendering,
 <pre style="text-align:center;">
 .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.
 {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}
-/)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)
+/)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)
 -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-
 </pre>
