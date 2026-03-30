@@ -1,11 +1,6 @@
-<!--<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
+<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
   <h1 style="font-family: 'Brush Script MT', cursive; color:black; margin:0; font-size: 42px;">Jan Klittich</h1>
-</div>-->
-<p align="center" style="background-color:#ff7f2a; padding:20px; border-radius:8px;">
-  <span style="font-family: 'Brush Script MT'; color:black; font-size:42px;">
-    Jan Klittich
-  </span>
-</p>
+</div>
 
 <br>
 
@@ -60,7 +55,7 @@ My interests include medical imaging, image processing, visualisation/rendering,
        alt="LinkedIn" width="32" height="32" style="margin-right:10px;">
 </a>
 
-<br>
+<br><br>
 
 ## ASCII-Art
 
