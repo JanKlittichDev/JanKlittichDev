@@ -1,6 +1,10 @@
-<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
+<!--<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
   <h1 style="font-family: 'Brush Script MT', cursive; color:black; margin:0; font-size: 42px;">Jan Klittich</h1>
+</div>-->
+<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
+  <h1 style="font-family: 'Brush Script MT', cursive; color:black; margin:0; font-size: 42px; text-align:center;">Jan Klittich</h1>
 </div>
+
 
 <br>
 
