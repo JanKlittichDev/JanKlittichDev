@@ -1,6 +1,12 @@
-<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
+<!--<div style="background-color:#ff7f2a; padding:20px; text-align:center; border-radius:8px;">
   <h1 style="font-family: 'Brush Script MT', cursive; color:black; margin:0; font-size: 42px;">Jan Klittich</h1>
-</div>
+</div>-->
+<p align="center" style="background-color:#ff7f2a; padding:20px; border-radius:8px;">
+  <span style="font-family: 'Brush Script MT'; color:black; font-size:42px;">
+    Jan Klittich
+  </span>
+</p>
+
 <br>
 
 <div style ="text-align:center">
@@ -56,11 +62,11 @@ My interests include medical imaging, image processing, visualisation/rendering,
 
 <br>
 
-##
+## ASCII-Art
 
 <pre style="text-align:center;">
-.___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.
-{o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}
-/)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)
--"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-
+.___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.
+{o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}
+/)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)       /)**)
+-"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-       -"-"-
 </pre>
