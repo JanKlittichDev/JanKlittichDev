@@ -59,7 +59,7 @@ My interests include medical imaging, image processing, visualisation/rendering,
 
 ## ASCII-Art
 
-<pre style="text-align:center;">
+<pre style="text-align: center;">
 .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.       .___.
 {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}       {o,o}
 /)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)       /)__)
