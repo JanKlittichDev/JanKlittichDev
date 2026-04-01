@@ -35,7 +35,7 @@ My interests include medical imaging, image processing, visualisation/rendering,
 
 <br>
 
-## Tech Stack
+## Tech 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
