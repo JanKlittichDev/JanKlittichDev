@@ -9,7 +9,7 @@
 <br>
 
 <div style ="text-align:center">
-👋 Hi, I'm Jan — a medical engineer by mindset and a developer by passion. I love analysing medical and engineering issues and providing software solutions. 
+👋 Hi, I'm Jan — a medical engineer and developer by passion. I love analysing medical and engineering issues and providing software solutions. 
 </div>
 
 <br>
