@@ -23,7 +23,7 @@ My interests include medical imaging, image processing, visualisation/rendering,
   <tr>
     <td style="padding-right:15px; vertical-align:middle;">
       <a href="https://www.hs-pforzheim.de/" target="_blank">
-        <img src="assets/Hochschule_Pforzheim_logo.svg" alt="Pforzheim University" width="50">
+       Hochschule Pforzheim
       </a>
     </td>
     <td style="vertical-align:middle;">
